@@ -20,5 +20,5 @@ Luego cada vez que reinicie o vuelva a inicializar no se agregarán mas producto
 
 ## URL Glitch donde se encuentra alojada la API
 ```
-https://desafio-express-cecilio-pared.glitch.me/
+visit https://desafio-express-cecilio-pared.glitch.me/
 ```

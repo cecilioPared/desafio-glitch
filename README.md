@@ -16,7 +16,7 @@ npm run dev
 ## Archivo de productos.txt
 
 El archivo con el contenido de productos se generará automaticamente con 3 productos al inicializar el server por primera vez
-Luego cada vez que reinicie o vuelva a inicializar no se agregarán mas productos al archivo
+Luego cada vez que reinicie o vuelva a inicializar no se agregarán más productos al archivo
 
 ## URL Glitch donde se encuentra alojada la API
 
